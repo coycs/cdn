@@ -15,6 +15,7 @@
 (function () {
   "use strict";
   // webhook测试
+  print(1);
   window.onload = function () {
     let color, transparency;
     color = getValue("H_color");
